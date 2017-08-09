@@ -8,3 +8,11 @@ But you can set it to whenever you want from 100% (ads are going to play with th
 
 
 It was currently tested with Spotify version 1.0.9.133 and OS X 10.10.2 (Yosemite)
+
+
+## Download
+
+https://github.com/victornpb/SpotifyAdSilencer/archive/v1.0.0.zip
+
+
+\* You may need to `right-click` or `control-click` and `Open` to allow Mac OS to run it for the first time.
