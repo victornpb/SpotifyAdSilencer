@@ -1,4 +1,7 @@
 # SpotifyAdSilencer
+
+![spotifyadssilencer fw](https://user-images.githubusercontent.com/3372598/175666322-8278e570-a4c9-4ce8-9cec-960351d45189.png)
+
 Mac application that reduce volume when spotify play ads
 
 This is App written using AppleScript automatically detect ads and reduce your current volume by a prefered percentage when Spotify play ads, and then restore the volume to the previous level when a song starts.
@@ -15,4 +18,4 @@ It was currently tested with Spotify version 1.0.9.133 and OS X 10.10.2 (Yosemit
 https://github.com/victornpb/SpotifyAdSilencer/archive/v1.0.0.zip
 
 
-\* You may need to `right-click` or `control-click` and `Open` to allow Mac OS to run it for the first time.
+> \* You may need to `right-click` or `control-click` and `Open` to allow Mac OS to run it for the first time.
